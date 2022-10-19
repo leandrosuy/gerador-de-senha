@@ -26,7 +26,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/leandrosuy/chatwebsocket.git
+$ git clone https://github.com/leandrosuy/gerador-de-senha
 ```
 
 <a href="https://raw.githubusercontent.com/ARTHURPC03/Proffy-FullStack/master/github/linkedin.png">
